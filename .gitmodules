@@ -1,0 +1,3 @@
+[submodule "vim/janus/less-syntax"]
+	path = vim/janus/less-syntax
+	url = https://github.com/vim-scripts/less-syntax.git
