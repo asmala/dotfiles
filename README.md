@@ -4,8 +4,11 @@ scheme of choice.
 
 Currently includes configuration for:
 
-* [Zsh](http://www.zsh.org/) (using
-  [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/))
-* [Vim](http://www.vim.org/) (using
-  [Janus](https://github.com/carlhuda/janus/))
+* [Emacs](http://www.gnu.org/software/emacs/)
+  * Using [Emacs Starter Kit](https://github.com/technomancy/emacs-starter-kit)
 * [Git](http://git-scm.com/)
+* [Leiningen](http://leiningen.org/)
+* [Vim](http://www.vim.org/)
+  * Using [Janus](https://github.com/carlhuda/janus/)
+* [Zsh](http://www.zsh.org/)
+  * Using [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/)
