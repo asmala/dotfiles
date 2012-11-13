@@ -12,9 +12,10 @@
                       starter-kit-js starter-kit-lisp starter-kit-ruby
                       color-theme color-theme-sanityinc-solarized
                       ruby-electric ruby-compilation rvm yaml-mode
-                      scss-mode
+                      less-css-mode scss-mode
                       clojure-mode clojure-test-mode clojurescript-mode nrepl
                       php-mode
+                      markdown-mode
                       coffee-mode javascript
                       textmate yasnippet)
   "A list of packages to ensure are installed at launch.")
@@ -59,6 +60,8 @@
 
 (require 'php-mode)
 (add-to-list 'auto-mode-alist '("\\.php$" . php-mode))
+
+(add-to-list 'auto-mode-alist '("\\.md$" . markdown-mode))
 
 (require 'textmate)
 (textmate-mode)
