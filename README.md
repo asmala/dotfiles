@@ -8,7 +8,7 @@ scheme of choice.
 ## Included configuration
 
 * [Emacs](http://www.gnu.org/software/emacs/)
-  * Using [Emacs Starter Kit](https://github.com/technomancy/emacs-starter-kit)
+  * Using [Emacs Live](https://github.com/overtone/emacs-live)
 * [Git](http://git-scm.com/)
 * [Leiningen](http://leiningen.org/)
 * [Vim](http://www.vim.org/)
